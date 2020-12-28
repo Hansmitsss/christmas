@@ -8,8 +8,7 @@ public class Test {
         System.out.println(c2.date);
         System.out.println(c1.date);
 
-        //c1.changeyear(2020);
-        //c2.changeyear(2021);
+
 
         System.out.println(c2.year);
         System.out.println(c1.year);
